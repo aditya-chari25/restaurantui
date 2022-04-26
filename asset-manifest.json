@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/restaurantui/static/css/main.34c5a08b.css",
+    "main.js": "/restaurantui/static/js/main.126855e5.js",
+    "static/js/787.55f03a21.chunk.js": "/restaurantui/static/js/787.55f03a21.chunk.js",
+    "static/media/goldcoin.jpeg": "/restaurantui/static/media/goldcoin.818f30d713397864e9d7.jpeg",
+    "static/media/dp.jpeg": "/restaurantui/static/media/dp.472214551e7b2c146a63.jpeg",
+    "static/media/logo.svg": "/restaurantui/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/restaurantui/index.html",
+    "main.34c5a08b.css.map": "/restaurantui/static/css/main.34c5a08b.css.map",
+    "main.126855e5.js.map": "/restaurantui/static/js/main.126855e5.js.map",
+    "787.55f03a21.chunk.js.map": "/restaurantui/static/js/787.55f03a21.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34c5a08b.css",
+    "static/js/main.126855e5.js"
+  ]
+}
