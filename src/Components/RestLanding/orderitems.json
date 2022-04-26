@@ -1,0 +1,62 @@
+{
+    "orders":[
+        {
+            "email":"eg@eg.com",
+            "items":[
+                {
+                    "id":1,
+                    "price":"$9.00",
+                    "name":"kadai paneer",
+                    "img":"https://image.shutterstock.com/image-photo/indian-food-curry-copper-brass-260nw-699241945.jpg",
+                    "description":"Kadai paneer is a spicy, warming, flavorful and super delicious dish made by cooking paneer & bell peppers in a fragrant, fresh ground spice .",
+                    "qty":"3"
+                },
+                {
+                    "id":2,
+                    "price":"$7.00",
+                    "name":"pulav rice",
+                    "img":"https://st2.depositphotos.com/5653638/11809/i/950/depositphotos_118097156-stock-photo-indian-veg-biryani-veg-pulav.jpg",
+                    "description":"Pulao or pilaf, is comfort food at its best and I make it when I want to cook something quick, easy and satisfying. This one-pot dish made with rice and vegetables has added spices and herbs, giving it a mild aromatic flavor.",
+                    "qty":"3"
+                },
+                {
+                    "id":3,
+                    "price":"$10.00",
+                    "name":"magherita",
+                    "img":"https://www.dominos.co.in//files/items/Margherit.jpg",
+                    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac justo sit amet nulla sollicitudin convallis. Curabitur ultricies, lorem vitae.",
+                    "qty":"3"
+                }
+            ]
+        },
+        {
+            "email":"eg1@eg1.com",
+            "items":[
+                {
+                    "id":1,
+                    "price":"$10.00",
+                    "name":"magherita",
+                    "img":"https://www.dominos.co.in//files/items/Margherit.jpg",
+                    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac justo sit amet nulla sollicitudin convallis. Curabitur ultricies, lorem vitae.",
+                    "qty":"3"
+                },
+                {
+                    "id":2,
+                    "price":"$10.00",
+                    "name":"Nimbu paani",
+                    "img":"https://www.dominos.co.in//files/items/Margherit.jpg",
+                    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac justo sit amet nulla sollicitudin convallis. Curabitur ultricies, lorem vitae.",
+                    "qty":"3"
+                },
+                {
+                    "id":3,
+                    "price":"$10.00",
+                    "name":"Nimbu paani",
+                    "img":"https://www.dominos.co.in//files/items/Margherit.jpg",
+                    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ac justo sit amet nulla sollicitudin convallis. Curabitur ultricies, lorem vitae.",
+                    "qty":"3"
+                }
+            ]
+        }
+    ]
+}

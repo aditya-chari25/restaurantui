@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+  }
+  .prodcreate-body {
+    /* background-image: url("bg2.jpg"); */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    font-family: "Times New Roman", Times, serif;
+    margin-top: 15px !important; 
+    margin-bottom: 15px !important;
+    margin-left: 25% !important;
+    margin-right: 25% !important;
+    font-size: 17px !important;
+    padding: 6px !important;
+  }
+  .prodcreate-container {
+    background-color:white;
+  padding: 5px 20px 15px 20px;
+  border: 1px solid lightgray;
+  border-radius: 10px;
+}
+  input[type="text"],
+  input[type="image"],
+  textarea[name="adress"] {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+  }
+  .prodc-main {
+    text-align: center;
+    border: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+}
+  h1.prodc-main {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+  input[type="submit"],
+  input[type="reset"] {
+    background-color: black;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 100px;
+    cursor: pointer;
+    margin-right: 10px;
+  }
+  input[type="submit"]:hover,
+  input[type="reset"]:hover {
+    background-color: gray;
+  }
+
+ 

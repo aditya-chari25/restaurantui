@@ -1,0 +1,47 @@
+.restdashboard-item1 { grid-area: header; position:fixed}
+.restdashboard-item2 { grid-area: heading;width:100vw;height:10vh;font-family: 'Merriweather', serif;}
+.restdashboard-item4 { grid-area: main; width:100vw;height:100%;}
+
+.restdashboard-grid-container {
+  display: grid;
+  grid-template-areas:
+    'header header heading heading heading heading'
+    'header header main main main main'
+    'header header main main main main';
+  background-color: whitesmoke;
+}
+
+.restdashboard-grid-container > div {
+  background-color: white;
+  text-align: center;
+  padding: 20px 0;
+  font-size: 30px;
+}
+.restdashboard-item3{
+  height:40vh;
+}
+
+#anytime-navlink{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.restdashboard-item1{
+    width:18vw;
+    height:100%;
+    background-color: #1E1F26 !important;
+}
+
+.restdashboard-topics{
+    font-size: 1.125rem;
+    color:white;
+    margin-top: 3vh;
+}
+
+.restdashboard-table{
+    margin-top: 10vh;
+}
+
+.restdashboard-item2{
+    border-bottom: 3vw;
+    border-color:aliceblue;
+}
